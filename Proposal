@@ -1,0 +1,24 @@
+##Fantastic 4
+Group Members: Milan Chen, Alex Hsieh, Tom Harmon, Leon Tan
+
+##Overreaching Thoughts:
+Don’t Do It! Think Twice!
+
+This is a visualization that tells a story based on Suicide Rates by genders, economics, happiness, age group and locations across the world using Python, Tableau and ML. 
+
+##Problem Statement
+Based on the datasets, we are looking to predict at what level of happiness do people have symptoms of suicidal, and would location and age have to do with it? 
+
+##Plan
+Visualizing Datasets in Tableau, then cleaning up the datasets in Python and Jupyter notebook after that start plotting with Panda and then adding ML coding into it. Geomapping it and also adding some bar graph into it. Probably going to add HTML and Leaflet format into it but for now, is the basic clean and import to Tableau. 
+
+##Data (links):
+https://s3.amazonaws.com/happiness-report/2018/WHR2018Chapter2OnlineData.xls
+https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016/version/1
+
+##Primary Github
+https://github.com/atjhsieh/Fantastic4
+
+
+
+
